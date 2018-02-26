@@ -1,0 +1,6 @@
+framework module SyStatefulComponent {
+  umbrella header "SyStatefulComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SyStatefulComponent (0.1.0)
+
+DEPENDENCIES:
+  - SyStatefulComponent (from `../`)
+
+EXTERNAL SOURCES:
+  SyStatefulComponent:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SyStatefulComponent: 1956333b0f31f71a3d844cd9f730d9290dea0fe7
+
+PODFILE CHECKSUM: c89d8ad770066539e4fccec7ca71de4f0d46d15c
+
+COCOAPODS: 1.4.0

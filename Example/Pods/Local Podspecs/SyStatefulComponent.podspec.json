@@ -1,0 +1,22 @@
+{
+  "name": "SyStatefulComponent",
+  "version": "0.1.0",
+  "summary": "A short description of SyStatefulComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SylvanasX/SyStatefulComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SylvanasX": "10393625@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SylvanasX/SyStatefulComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SyStatefulComponent/Classes/**/*"
+}

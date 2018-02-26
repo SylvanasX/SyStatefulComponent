@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SyStatefulComponent_Example' do
+  pod 'SyStatefulComponent', :path => '../'
+
+  target 'SyStatefulComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

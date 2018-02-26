@@ -1,0 +1,6 @@
+framework module Pods_SyStatefulComponent_Example {
+  umbrella header "Pods-SyStatefulComponent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
