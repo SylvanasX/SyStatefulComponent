@@ -11,6 +11,8 @@
 
 @implementation UIView (SyStatefulComponent)
 
+@dynamic sy_errorView, sy_emptyView, sy_loadingView;
+
 - (SyViewStateMachine *)sy_stateMachine {
     SyViewStateMachine *machine = objc_getAssociatedObject(self, _cmd);
     if (!machine) {
